@@ -1,0 +1,1 @@
+(self.webpackChunk_object_Object_name_=self.webpackChunk_object_Object_name_||[]).push([[180],{9180:(e,t,_)=>{"use strict";_.r(t),_.d(t,{default:()=>l});var n=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",[e._v("foo")])};n._withStripped=!0;var c=(0,_(1900).Z)({},n,[],!1,null,null,null);c.options.__file="src/views/foo.vue";const l=c.exports}}]);

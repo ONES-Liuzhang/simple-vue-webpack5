@@ -1,0 +1,1 @@
+(self.webpackChunk_object_Object_name_=self.webpackChunk_object_Object_name_||[]).push([[23],{4023:(e,t,_)=>{"use strict";_.r(t),_.d(t,{default:()=>c});var n=function(){var e=this,t=e.$createElement;return(e._self._c||t)("div",[e._v("bar")])};n._withStripped=!0;var r=(0,_(1900).Z)({},n,[],!1,null,null,null);r.options.__file="src/views/bar.vue";const c=r.exports}}]);

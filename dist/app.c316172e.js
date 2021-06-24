@@ -1,0 +1,1 @@
+!function(e,t){"object"==typeof exports&&"object"==typeof module?module.exports={}:"function"==typeof define&&define.amd?define([],t):"object"==typeof exports?exports["[object Object]-app"]={}:e["[object Object]-app"]={}}(self,(function(){return{}}));
